@@ -1,2 +1,2 @@
 # Portfolio
-Collection of personal projects for show
+Collection of personal projects for show.
